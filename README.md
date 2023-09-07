@@ -18,3 +18,4 @@ EDA on HR Data ( Python - Pandas - Matplotlob - Jupyter notebook )
 
 
 ![2023-09-07 17_08_21-EDA on HR Data - Jupyter Notebook](https://github.com/Al-b7q/EDA-On-HR-Data/assets/144049398/b71f3bc5-38e0-45b2-a28c-6e163068c148)
+
